@@ -1,0 +1,59 @@
+.title{
+    font-family: 'Lobster',cursive;
+    color:white;
+    font-size: 100px;
+    margin-top: 10px;
+}
+#subtitle{
+    font-family: 'Butterfly Kids', cursive;
+    font-size: 50px;
+    color:white;
+}
+#adult{
+    font-family: 'Lobster',cursive;
+    font-size: 50px;
+    color: white;margin-top: 55px;
+}
+#kid{
+    font-family: 'Butterfly Kids', cursive;
+    font-size: 70px;
+    color: white;margin-right:100px ;margin-top: 50px;
+}
+.question{
+    font-family: 'Rampart One', cursive;
+    font-size: 50px;
+    color: white;
+
+}
+#line{
+    margin-left: -17px;  
+}
+#line2{
+    margin-left: -165px;
+}
+#line3{
+    margin-left: -165px;
+}
+#line4{
+    margin-left: -165px;
+}
+
+input[type=radio] {
+    width: 30px;
+    height: 30px;
+    color: red;
+    margin-bottom: -55px;
+}
+#check{
+    height: 70px;
+    width:250px;
+    font-family: 'Rampart One', cursive;
+    font-size: 40px;
+    margin-top: 40px;
+}
+body{
+    overflow: hidden;
+}
+
+
+
